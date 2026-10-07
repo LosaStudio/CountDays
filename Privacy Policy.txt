@@ -1,0 +1,45 @@
+Privacy Policy for Countdown: Days Left
+Effective date: October 7, 2026
+Developer: LosaStudio
+LosaStudio provides Countdown: Days Left. This Privacy Policy explains how information is handled when you use the app or contact us.
+1. Information Stored on Your Device
+The app stores information you enter locally on your device, including:
+- Event titles and target dates or times.
+- Selected event colors and icons.
+- Favorite events and past events.
+- Display settings and theme preferences.
+This information is used to display countdowns, organize events, and restore your saved preferences. We do not receive this information or store it on developer servers.
+The app does not require an account.
+2. Advertising and Analytics
+The app does not include advertising, analytics, or third-party tracking SDKs. We do not collect advertising identifiers or track your activity across other apps.
+We do not sell or rent your information.
+3. Sharing Events
+When you choose to share an event, the app sends its title, date, and countdown information to the application or recipient you select through your device’s sharing options.
+Sharing occurs only when you initiate it. The receiving service handles shared information according to its own privacy policy.
+4. Permissions and Device Information
+The app uses your device’s current date, time, and local time zone to calculate countdowns.
+Its countdown features do not require access to your contacts, location, camera, microphone, or personal calendar.
+5. Retention and Deletion
+Your events and preferences remain on your device until you delete them or clear the app’s storage.
+You can delete individual events through the app. To remove all locally stored information, use the app’s clear-data option, where available, or clear its storage through Android Settings.
+Uninstalling the app generally removes its local data. We cannot access or delete your saved events remotely because we do not receive them.
+6. Device Backups
+Depending on your device settings and the app’s backup configuration, Android or your device provider may include app data in backups.
+We do not operate or have access to these backups. Backup retention, deletion, and restoration are controlled by your backup provider and device settings.
+7. Support Communications
+If you contact us by email or phone, we receive the information you voluntarily provide, such as your contact details, message, and attachments.
+We use this information to respond to questions and resolve support issues. Our email and telecommunications providers may process these communications to deliver their services.
+Support communications are retained only as needed to handle your request and meet applicable obligations. You may contact us to request their deletion.
+8. Security
+The app relies on Android’s app storage protections and your device’s security settings to protect locally stored information.
+Keep your device secure and updated. No method of electronic storage or communication can guarantee absolute security.
+9. Children’s Privacy
+The app does not require users to submit personal information to LosaStudio. Event information entered into the app remains on the device.
+If you believe a child has provided personal information to us through a support request, contact us so we can review and delete it where appropriate.
+10. Changes to This Policy
+We may update this policy when the app or its information-handling practices change. The updated policy will display a revised effective date.
+11. Contact Us
+For privacy questions or requests, contact:
+LosaStudio
+Email: contact@nexorvani.online
+Phone: +447868256516
